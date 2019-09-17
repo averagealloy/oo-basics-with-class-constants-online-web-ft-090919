@@ -11,6 +11,6 @@ class Book
     puts "Flipping the page...wow, you read fast!"
   end
 
-  def gemre 
+  def genre
 
 end
