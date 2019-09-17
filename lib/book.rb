@@ -11,6 +11,6 @@ class Book
     puts "Flipping the page...wow, you read fast!"
   end
 
-  def g
+  def gem
 
 end
